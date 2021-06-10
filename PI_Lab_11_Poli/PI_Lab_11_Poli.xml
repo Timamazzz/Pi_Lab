@@ -1,0 +1,67 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>PI_Lab_11_Poli</name>
+    </assembly>
+    <members>
+        <!-- Badly formed XML comment ignored for member "T:PI_Lab_11_Poli.Program.Rectangle" -->
+        <member name="P:PI_Lab_11_Poli.Program.Rectangle.a">
+            <summary>
+            Стороны
+            </summary>
+        </member>
+        <member name="M:PI_Lab_11_Poli.Program.Rectangle.#ctor(System.Int32,System.Int32)">
+            <summary>
+            Конструктор прямоугольника
+            </summary>
+            <param name="a">Сторона а</param>
+            <param name="b">Сторона b</param>
+        </member>
+        <member name="M:PI_Lab_11_Poli.Program.Rectangle.#ctor">
+            <summary>
+            Пустой конструктор прямоугольника
+            </summary>
+        </member>
+        <member name="M:PI_Lab_11_Poli.Program.Rectangle.Print">
+            <summary>
+            Метод выводасторон прямоугольника в строку
+            </summary>
+        </member>
+        <member name="P:PI_Lab_11_Poli.Program.Rectangle.Perimeter">
+            <summary>
+            Метод нахождения периметра
+            </summary>
+            <example>
+            <code>
+             a = 1; b= 1;
+             Perimetr return 4;
+            </code>
+            </example>
+        </member>
+        <member name="P:PI_Lab_11_Poli.Program.Rectangle.Square">
+            Метод нахождения площади
+             <с>Square</с>
+             <see cref= "P:PI_Lab_11_Poli.Program.Rectangle.Square"/>
+        </member>
+        <member name="M:PI_Lab_11_Poli.Program.Rectangle.op_Increment(PI_Lab_11_Poli.Program.Rectangle)">
+            <summary>
+            Метод увеличение всех сторон на 1
+            </summary>
+        </member>
+        <member name="M:PI_Lab_11_Poli.Program.Rectangle.op_Decrement(PI_Lab_11_Poli.Program.Rectangle)">
+            <summary>
+            Метод уменьшения всех сторон на 1
+            </summary>
+        </member>
+        <member name="M:PI_Lab_11_Poli.Program.Rectangle.op_False(PI_Lab_11_Poli.Program.Rectangle)">
+            <summary>
+            Метод, позволяющий определить квадрат
+            </summary>
+        </member>
+        <member name="M:PI_Lab_11_Poli.Program.Rectangle.op_True(PI_Lab_11_Poli.Program.Rectangle)">
+            <summary>
+            Метод, позволяющий определить квадрат
+            </summary>
+        </member>
+    </members>
+</doc>

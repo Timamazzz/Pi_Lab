@@ -1,0 +1,14 @@
+C:\Users\Artem-HOME\source\repos\PI_Lab_11_Poli\bin\Debug\netcoreapp3.1\PI_Lab_11_Poli.exe
+C:\Users\Artem-HOME\source\repos\PI_Lab_11_Poli\bin\Debug\netcoreapp3.1\PI_Lab_11_Poli.deps.json
+C:\Users\Artem-HOME\source\repos\PI_Lab_11_Poli\bin\Debug\netcoreapp3.1\PI_Lab_11_Poli.runtimeconfig.json
+C:\Users\Artem-HOME\source\repos\PI_Lab_11_Poli\bin\Debug\netcoreapp3.1\PI_Lab_11_Poli.runtimeconfig.dev.json
+C:\Users\Artem-HOME\source\repos\PI_Lab_11_Poli\bin\Debug\netcoreapp3.1\PI_Lab_11_Poli.dll
+C:\Users\Artem-HOME\source\repos\PI_Lab_11_Poli\bin\Debug\netcoreapp3.1\PI_Lab_11_Poli.pdb
+C:\Users\Artem-HOME\source\repos\PI_Lab_11_Poli\bin\Debug\netcoreapp3.1\PI_Lab_11_Poli.xml
+C:\Users\Artem-HOME\source\repos\PI_Lab_11_Poli\obj\Debug\netcoreapp3.1\PI_Lab_11_Poli.csprojAssemblyReference.cache
+C:\Users\Artem-HOME\source\repos\PI_Lab_11_Poli\obj\Debug\netcoreapp3.1\PI_Lab_11_Poli.AssemblyInfoInputs.cache
+C:\Users\Artem-HOME\source\repos\PI_Lab_11_Poli\obj\Debug\netcoreapp3.1\PI_Lab_11_Poli.AssemblyInfo.cs
+C:\Users\Artem-HOME\source\repos\PI_Lab_11_Poli\obj\Debug\netcoreapp3.1\PI_Lab_11_Poli.csproj.CoreCompileInputs.cache
+C:\Users\Artem-HOME\source\repos\PI_Lab_11_Poli\obj\Debug\netcoreapp3.1\PI_Lab_11_Poli.dll
+C:\Users\Artem-HOME\source\repos\PI_Lab_11_Poli\obj\Debug\netcoreapp3.1\PI_Lab_11_Poli.pdb
+C:\Users\Artem-HOME\source\repos\PI_Lab_11_Poli\obj\Debug\netcoreapp3.1\PI_Lab_11_Poli.genruntimeconfig.cache

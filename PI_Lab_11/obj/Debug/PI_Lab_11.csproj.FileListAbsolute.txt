@@ -1,0 +1,8 @@
+C:\Users\Artem-HOME\source\repos\PI_Lab_11\obj\Debug\PI_Lab_11.csproj.CoreCompileInputs.cache
+C:\Users\Artem-HOME\source\repos\PI_Lab_11\bin\Debug\PI_Lab_11.exe.config
+C:\Users\Artem-HOME\source\repos\PI_Lab_11\bin\Debug\PI_Lab_11.xml
+C:\Users\Artem-HOME\source\repos\PI_Lab_11\bin\Debug\PI_Lab_11.exe
+C:\Users\Artem-HOME\source\repos\PI_Lab_11\bin\Debug\PI_Lab_11.pdb
+C:\Users\Artem-HOME\source\repos\PI_Lab_11\obj\Debug\PI_Lab_11.exe
+C:\Users\Artem-HOME\source\repos\PI_Lab_11\obj\Debug\PI_Lab_11.pdb
+C:\Users\Artem-HOME\source\repos\PI_Lab_11\obj\Debug\PI_Lab_11.csprojAssemblyReference.cache

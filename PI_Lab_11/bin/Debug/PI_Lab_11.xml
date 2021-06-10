@@ -1,0 +1,99 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>PI_Lab_11</name>
+    </assembly>
+    <members>
+        <member name="T:PI_Lab_11.Matrix">
+            <summary>
+            Этот класс создаёт матрицу
+            </summary>
+            <remarks>
+            <para>В классе создаются поля - размерность матрицы и сама матрица</para>
+            </remarks>
+        </member>
+        <member name="F:PI_Lab_11.Matrix.IntArray">
+            <summary>
+            Матрица
+            </summary>
+        </member>
+        <member name="F:PI_Lab_11.Matrix.n">
+            <summary>
+            Строки матрицы
+            </summary>
+        </member>
+        <member name="F:PI_Lab_11.Matrix.m">
+            <summary>
+            Столбцы матрицы
+            </summary>
+        </member>
+        <member name="M:PI_Lab_11.Matrix.#ctor">
+            <summary>
+            Пустой конструктор матрицы
+            </summary>
+        </member>
+        <member name="M:PI_Lab_11.Matrix.#ctor(System.Int32,System.Int32)">
+            <summary>
+            Конструктор матрицы
+            </summary>
+        </member>
+        <member name="M:PI_Lab_11.Matrix.Finalize">
+            <summary>
+            Деконструктор матрицы
+            </summary>
+        </member>
+        <member name="P:PI_Lab_11.Matrix.Item(System.Int32,System.Int32)">
+            <summary>
+            Свойство получения и назначения значений матрицы
+            </summary>
+        </member>
+        <member name="M:PI_Lab_11.Matrix.ZeroQuantity">
+            <summary>
+            Метод нахождения количества нулей в матрице
+            </summary>
+            <example>
+            <code>
+             int n=2, m=2;
+             IntArray[0,0]=1;
+             IntArray[0,1]=1;
+             IntArray[1,0]=1;
+             IntArray[1,1]=1;
+             if (IntArray[i, j] == 0)  quan++;;
+             {return quan;}
+            </code>
+            </example>
+        </member>
+        <member name="M:PI_Lab_11.Matrix.SumOfColumn(System.Int32)">
+            Метод нахождения суммы заданного столбца
+             <с>SumOfColumn</с>
+             <see cref= "M:PI_Lab_11.Matrix.SumOfColumn(System.Int32)"/>
+        </member>
+        <member name="M:PI_Lab_11.Matrix.op_Increment(PI_Lab_11.Matrix)">
+            <summary>
+            Метод увеличение всех эл-ов матрицы на 1
+            </summary>
+        </member>
+        <member name="M:PI_Lab_11.Matrix.op_Decrement(PI_Lab_11.Matrix)">
+            <summary>
+            Метод уменьшение всех эл-ов матрицы на 1
+            </summary>
+        </member>
+        <member name="M:PI_Lab_11.Matrix.op_Addition(PI_Lab_11.Matrix,PI_Lab_11.Matrix)">
+            <summary>
+            Метод сложения двух матриц
+            </summary>
+            <param name="mat1">Первая матрица</param>
+            <param name="mat2">Вторая матрица</param>
+        </member>
+        <member name="M:PI_Lab_11.Matrix.op_True(PI_Lab_11.Matrix)">
+            <summary>
+            Метод, позволяющий определить квадратная ли матрица 
+            </summary>
+        </member>
+        <member name="M:PI_Lab_11.Matrix.op_False(PI_Lab_11.Matrix)">
+            <summary>
+            Метод, позволяющий определить квадратная ли матрица 
+            </summary>
+        </member>
+    </members>
+</doc>
