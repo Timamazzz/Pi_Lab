@@ -1,0 +1,10 @@
+C:\Users\Artem-HOME\source\repos\PI_Lab_1_Form\bin\Debug\PI_Lab_1_Form.exe.config
+C:\Users\Artem-HOME\source\repos\PI_Lab_1_Form\bin\Debug\PI_Lab_1_Form.exe
+C:\Users\Artem-HOME\source\repos\PI_Lab_1_Form\bin\Debug\PI_Lab_1_Form.pdb
+C:\Users\Artem-HOME\source\repos\PI_Lab_1_Form\obj\Debug\PI_Lab_1_Form.csprojAssemblyReference.cache
+C:\Users\Artem-HOME\source\repos\PI_Lab_1_Form\obj\Debug\PI_Lab_1_Form.Form1.resources
+C:\Users\Artem-HOME\source\repos\PI_Lab_1_Form\obj\Debug\PI_Lab_1_Form.Properties.Resources.resources
+C:\Users\Artem-HOME\source\repos\PI_Lab_1_Form\obj\Debug\PI_Lab_1_Form.csproj.GenerateResource.cache
+C:\Users\Artem-HOME\source\repos\PI_Lab_1_Form\obj\Debug\PI_Lab_1_Form.csproj.CoreCompileInputs.cache
+C:\Users\Artem-HOME\source\repos\PI_Lab_1_Form\obj\Debug\PI_Lab_1_Form.exe
+C:\Users\Artem-HOME\source\repos\PI_Lab_1_Form\obj\Debug\PI_Lab_1_Form.pdb

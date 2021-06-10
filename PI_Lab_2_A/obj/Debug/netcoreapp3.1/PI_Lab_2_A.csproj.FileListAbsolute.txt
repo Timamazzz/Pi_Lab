@@ -1,0 +1,13 @@
+C:\Users\Artem-HOME\source\repos\PI_Lab_2_A\obj\Debug\netcoreapp3.1\PI_Lab_2_A.AssemblyInfoInputs.cache
+C:\Users\Artem-HOME\source\repos\PI_Lab_2_A\obj\Debug\netcoreapp3.1\PI_Lab_2_A.AssemblyInfo.cs
+C:\Users\Artem-HOME\source\repos\PI_Lab_2_A\obj\Debug\netcoreapp3.1\PI_Lab_2_A.csproj.CoreCompileInputs.cache
+C:\Users\Artem-HOME\source\repos\PI_Lab_2_A\bin\Debug\netcoreapp3.1\PI_Lab_2_A.exe
+C:\Users\Artem-HOME\source\repos\PI_Lab_2_A\bin\Debug\netcoreapp3.1\PI_Lab_2_A.deps.json
+C:\Users\Artem-HOME\source\repos\PI_Lab_2_A\bin\Debug\netcoreapp3.1\PI_Lab_2_A.runtimeconfig.json
+C:\Users\Artem-HOME\source\repos\PI_Lab_2_A\bin\Debug\netcoreapp3.1\PI_Lab_2_A.runtimeconfig.dev.json
+C:\Users\Artem-HOME\source\repos\PI_Lab_2_A\bin\Debug\netcoreapp3.1\PI_Lab_2_A.dll
+C:\Users\Artem-HOME\source\repos\PI_Lab_2_A\bin\Debug\netcoreapp3.1\PI_Lab_2_A.pdb
+C:\Users\Artem-HOME\source\repos\PI_Lab_2_A\obj\Debug\netcoreapp3.1\PI_Lab_2_A.dll
+C:\Users\Artem-HOME\source\repos\PI_Lab_2_A\obj\Debug\netcoreapp3.1\PI_Lab_2_A.pdb
+C:\Users\Artem-HOME\source\repos\PI_Lab_2_A\obj\Debug\netcoreapp3.1\PI_Lab_2_A.genruntimeconfig.cache
+C:\Users\Artem-HOME\source\repos\PI_Lab_2_A\obj\Debug\netcoreapp3.1\PI_Lab_2_A.csprojAssemblyReference.cache
