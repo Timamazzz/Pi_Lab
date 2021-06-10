@@ -1,0 +1,9 @@
+C:\Users\Artem-HOME\source\repos\PI_Lab_5_Poli\bin\Debug\PI_Lab_5_Poli.exe.config
+C:\Users\Artem-HOME\source\repos\PI_Lab_5_Poli\bin\Debug\PI_Lab_5_Poli.exe
+C:\Users\Artem-HOME\source\repos\PI_Lab_5_Poli\bin\Debug\PI_Lab_5_Poli.pdb
+C:\Users\Artem-HOME\source\repos\PI_Lab_5_Poli\obj\Debug\PI_Lab_5_Poli.csprojAssemblyReference.cache
+C:\Users\Artem-HOME\source\repos\PI_Lab_5_Poli\obj\Debug\PI_Lab_5_Poli.Properties.Resources.resources
+C:\Users\Artem-HOME\source\repos\PI_Lab_5_Poli\obj\Debug\PI_Lab_5_Poli.csproj.GenerateResource.cache
+C:\Users\Artem-HOME\source\repos\PI_Lab_5_Poli\obj\Debug\PI_Lab_5_Poli.csproj.CoreCompileInputs.cache
+C:\Users\Artem-HOME\source\repos\PI_Lab_5_Poli\obj\Debug\PI_Lab_5_Poli.exe
+C:\Users\Artem-HOME\source\repos\PI_Lab_5_Poli\obj\Debug\PI_Lab_5_Poli.pdb

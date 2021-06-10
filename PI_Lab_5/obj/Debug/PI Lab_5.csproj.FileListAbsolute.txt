@@ -1,0 +1,29 @@
+C:\Users\Artem-HOME\source\repos\PI Lab_5\bin\Debug\PI Lab_5.exe.config
+C:\Users\Artem-HOME\source\repos\PI Lab_5\bin\Debug\PI Lab_5.exe
+C:\Users\Artem-HOME\source\repos\PI Lab_5\bin\Debug\PI Lab_5.pdb
+C:\Users\Artem-HOME\source\repos\PI Lab_5\obj\Debug\PI_Lab_5.Properties.Resources.resources
+C:\Users\Artem-HOME\source\repos\PI Lab_5\obj\Debug\PI Lab_5.csproj.GenerateResource.cache
+C:\Users\Artem-HOME\source\repos\PI Lab_5\obj\Debug\PI Lab_5.csproj.CoreCompileInputs.cache
+C:\Users\Artem-HOME\source\repos\PI Lab_5\obj\Debug\PI Lab_5.exe
+C:\Users\Artem-HOME\source\repos\PI Lab_5\obj\Debug\PI Lab_5.pdb
+C:\Users\Artem-HOME\source\repos\PI Lab_5\obj\Debug\PI_Lab_5.Form1.resources
+J:\PI Lab_5\obj\Debug\PI_Lab_5.Form1.resources
+J:\PI Lab_5\obj\Debug\PI_Lab_5.Properties.Resources.resources
+J:\PI Lab_5\obj\Debug\PI Lab_5.csproj.GenerateResource.cache
+J:\PI Lab_5\obj\Debug\PI Lab_5.csproj.CoreCompileInputs.cache
+J:\PI Lab_5\obj\Debug\PI Lab_5.exe
+J:\PI Lab_5\obj\Debug\PI Lab_5.pdb
+J:\PI Lab_5\bin\Debug\PI Lab_5.exe.config
+J:\PI Lab_5\bin\Debug\PI Lab_5.exe
+J:\PI Lab_5\bin\Debug\PI Lab_5.pdb
+J:\PI Lab_5\obj\Debug\PI Lab_5.csprojAssemblyReference.cache
+C:\Users\Artem-HOME\source\repos\PI_Lab_5\bin\Debug\PI Lab_5.exe.config
+C:\Users\Artem-HOME\source\repos\PI_Lab_5\bin\Debug\PI Lab_5.exe
+C:\Users\Artem-HOME\source\repos\PI_Lab_5\bin\Debug\PI Lab_5.pdb
+C:\Users\Artem-HOME\source\repos\PI_Lab_5\obj\Debug\PI Lab_5.csprojAssemblyReference.cache
+C:\Users\Artem-HOME\source\repos\PI_Lab_5\obj\Debug\PI_Lab_5.Form1.resources
+C:\Users\Artem-HOME\source\repos\PI_Lab_5\obj\Debug\PI_Lab_5.Properties.Resources.resources
+C:\Users\Artem-HOME\source\repos\PI_Lab_5\obj\Debug\PI Lab_5.csproj.GenerateResource.cache
+C:\Users\Artem-HOME\source\repos\PI_Lab_5\obj\Debug\PI Lab_5.csproj.CoreCompileInputs.cache
+C:\Users\Artem-HOME\source\repos\PI_Lab_5\obj\Debug\PI Lab_5.exe
+C:\Users\Artem-HOME\source\repos\PI_Lab_5\obj\Debug\PI Lab_5.pdb
