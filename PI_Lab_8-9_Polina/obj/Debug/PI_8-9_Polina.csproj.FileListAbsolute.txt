@@ -1,0 +1,11 @@
+C:\Users\Artem-HOME\source\repos\PI_8-9_Polina\bin\Debug\PI_8-9_Polina.exe.config
+C:\Users\Artem-HOME\source\repos\PI_8-9_Polina\bin\Debug\PI_8-9_Polina.exe
+C:\Users\Artem-HOME\source\repos\PI_8-9_Polina\bin\Debug\PI_8-9_Polina.pdb
+C:\Users\Artem-HOME\source\repos\PI_8-9_Polina\obj\Debug\PI_8-9_Polina.csprojAssemblyReference.cache
+C:\Users\Artem-HOME\source\repos\PI_8-9_Polina\obj\Debug\PI_8_9_Polina.Form1.resources
+C:\Users\Artem-HOME\source\repos\PI_8-9_Polina\obj\Debug\PI_8_9_Polina.Properties.Resources.resources
+C:\Users\Artem-HOME\source\repos\PI_8-9_Polina\obj\Debug\PI_8-9_Polina.csproj.GenerateResource.cache
+C:\Users\Artem-HOME\source\repos\PI_8-9_Polina\obj\Debug\PI_8-9_Polina.csproj.CoreCompileInputs.cache
+C:\Users\Artem-HOME\source\repos\PI_8-9_Polina\obj\Debug\PI_8-9_Polina.exe
+C:\Users\Artem-HOME\source\repos\PI_8-9_Polina\obj\Debug\PI_8-9_Polina.pdb
+C:\Users\Artem-HOME\source\repos\PI_8-9_Polina\obj\Debug\PI_8_9_Polina.Form2.resources

@@ -1,0 +1,12 @@
+C:\Users\Artem-HOME\source\repos\PI_Lab_10\bin\Debug\PI_Lab_10.exe.config
+C:\Users\Artem-HOME\source\repos\PI_Lab_10\bin\Debug\PI_Lab_10.exe
+C:\Users\Artem-HOME\source\repos\PI_Lab_10\bin\Debug\PI_Lab_10.pdb
+C:\Users\Artem-HOME\source\repos\PI_Lab_10\obj\Debug\PI_Lab_10.csprojAssemblyReference.cache
+C:\Users\Artem-HOME\source\repos\PI_Lab_10\obj\Debug\PI_Lab_10.Form1.resources
+C:\Users\Artem-HOME\source\repos\PI_Lab_10\obj\Debug\PI_Lab_10.Properties.Resources.resources
+C:\Users\Artem-HOME\source\repos\PI_Lab_10\obj\Debug\PI_Lab_10.csproj.GenerateResource.cache
+C:\Users\Artem-HOME\source\repos\PI_Lab_10\obj\Debug\PI_Lab_10.csproj.CoreCompileInputs.cache
+C:\Users\Artem-HOME\source\repos\PI_Lab_10\obj\Debug\PI_Lab_10.exe
+C:\Users\Artem-HOME\source\repos\PI_Lab_10\obj\Debug\PI_Lab_10.pdb
+C:\Users\Artem-HOME\source\repos\PI_Lab_10\obj\Debug\PI_Lab_10.After_Min.resources
+C:\Users\Artem-HOME\source\repos\PI_Lab_10\obj\Debug\PI_Lab_10.Redact_ToolTip.resources
