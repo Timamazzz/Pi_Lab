@@ -1,0 +1,26 @@
+C:\Users\Artem-HOME\source\repos\Pi_lab_2A_Poli\obj\Debug\netcoreapp3.1\Pi_lab_2A_Poli.csprojAssemblyReference.cache
+C:\Users\Artem-HOME\source\repos\Pi_lab_2A_Poli\obj\Debug\netcoreapp3.1\Pi_lab_2A_Poli.AssemblyInfoInputs.cache
+C:\Users\Artem-HOME\source\repos\Pi_lab_2A_Poli\obj\Debug\netcoreapp3.1\Pi_lab_2A_Poli.AssemblyInfo.cs
+C:\Users\Artem-HOME\source\repos\Pi_lab_2A_Poli\obj\Debug\netcoreapp3.1\Pi_lab_2A_Poli.csproj.CoreCompileInputs.cache
+C:\Users\Artem-HOME\source\repos\Pi_lab_2A_Poli\bin\Debug\netcoreapp3.1\Pi_lab_2A_Poli.exe
+C:\Users\Artem-HOME\source\repos\Pi_lab_2A_Poli\bin\Debug\netcoreapp3.1\Pi_lab_2A_Poli.deps.json
+C:\Users\Artem-HOME\source\repos\Pi_lab_2A_Poli\bin\Debug\netcoreapp3.1\Pi_lab_2A_Poli.runtimeconfig.json
+C:\Users\Artem-HOME\source\repos\Pi_lab_2A_Poli\bin\Debug\netcoreapp3.1\Pi_lab_2A_Poli.runtimeconfig.dev.json
+C:\Users\Artem-HOME\source\repos\Pi_lab_2A_Poli\bin\Debug\netcoreapp3.1\Pi_lab_2A_Poli.dll
+C:\Users\Artem-HOME\source\repos\Pi_lab_2A_Poli\bin\Debug\netcoreapp3.1\Pi_lab_2A_Poli.pdb
+C:\Users\Artem-HOME\source\repos\Pi_lab_2A_Poli\obj\Debug\netcoreapp3.1\Pi_lab_2A_Poli.dll
+C:\Users\Artem-HOME\source\repos\Pi_lab_2A_Poli\obj\Debug\netcoreapp3.1\Pi_lab_2A_Poli.pdb
+C:\Users\Artem-HOME\source\repos\Pi_lab_2A_Poli\obj\Debug\netcoreapp3.1\Pi_lab_2A_Poli.genruntimeconfig.cache
+C:\Users\npota\OneDrive\Рабочий стол\гамно\4-й сем\ПИ\Новая папка\Pi_lab_2A_Poli\bin\Debug\netcoreapp3.1\Pi_lab_2A_Poli.exe
+C:\Users\npota\OneDrive\Рабочий стол\гамно\4-й сем\ПИ\Новая папка\Pi_lab_2A_Poli\bin\Debug\netcoreapp3.1\Pi_lab_2A_Poli.deps.json
+C:\Users\npota\OneDrive\Рабочий стол\гамно\4-й сем\ПИ\Новая папка\Pi_lab_2A_Poli\bin\Debug\netcoreapp3.1\Pi_lab_2A_Poli.runtimeconfig.json
+C:\Users\npota\OneDrive\Рабочий стол\гамно\4-й сем\ПИ\Новая папка\Pi_lab_2A_Poli\bin\Debug\netcoreapp3.1\Pi_lab_2A_Poli.runtimeconfig.dev.json
+C:\Users\npota\OneDrive\Рабочий стол\гамно\4-й сем\ПИ\Новая папка\Pi_lab_2A_Poli\bin\Debug\netcoreapp3.1\Pi_lab_2A_Poli.dll
+C:\Users\npota\OneDrive\Рабочий стол\гамно\4-й сем\ПИ\Новая папка\Pi_lab_2A_Poli\bin\Debug\netcoreapp3.1\Pi_lab_2A_Poli.pdb
+C:\Users\npota\OneDrive\Рабочий стол\гамно\4-й сем\ПИ\Новая папка\Pi_lab_2A_Poli\obj\Debug\netcoreapp3.1\Pi_lab_2A_Poli.csprojAssemblyReference.cache
+C:\Users\npota\OneDrive\Рабочий стол\гамно\4-й сем\ПИ\Новая папка\Pi_lab_2A_Poli\obj\Debug\netcoreapp3.1\Pi_lab_2A_Poli.AssemblyInfoInputs.cache
+C:\Users\npota\OneDrive\Рабочий стол\гамно\4-й сем\ПИ\Новая папка\Pi_lab_2A_Poli\obj\Debug\netcoreapp3.1\Pi_lab_2A_Poli.AssemblyInfo.cs
+C:\Users\npota\OneDrive\Рабочий стол\гамно\4-й сем\ПИ\Новая папка\Pi_lab_2A_Poli\obj\Debug\netcoreapp3.1\Pi_lab_2A_Poli.csproj.CoreCompileInputs.cache
+C:\Users\npota\OneDrive\Рабочий стол\гамно\4-й сем\ПИ\Новая папка\Pi_lab_2A_Poli\obj\Debug\netcoreapp3.1\Pi_lab_2A_Poli.dll
+C:\Users\npota\OneDrive\Рабочий стол\гамно\4-й сем\ПИ\Новая папка\Pi_lab_2A_Poli\obj\Debug\netcoreapp3.1\Pi_lab_2A_Poli.pdb
+C:\Users\npota\OneDrive\Рабочий стол\гамно\4-й сем\ПИ\Новая папка\Pi_lab_2A_Poli\obj\Debug\netcoreapp3.1\Pi_lab_2A_Poli.genruntimeconfig.cache
