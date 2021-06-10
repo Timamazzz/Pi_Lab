@@ -1,0 +1,10 @@
+C:\Users\Artem-HOME\source\repos\PI_Lab_7_Poli\bin\Debug\PI_Lab_7_Poli.exe.config
+C:\Users\Artem-HOME\source\repos\PI_Lab_7_Poli\bin\Debug\PI_Lab_7_Poli.exe
+C:\Users\Artem-HOME\source\repos\PI_Lab_7_Poli\bin\Debug\PI_Lab_7_Poli.pdb
+C:\Users\Artem-HOME\source\repos\PI_Lab_7_Poli\obj\Debug\PI_Lab_7_Poli.csprojAssemblyReference.cache
+C:\Users\Artem-HOME\source\repos\PI_Lab_7_Poli\obj\Debug\PI_Lab_7_Poli.Form1.resources
+C:\Users\Artem-HOME\source\repos\PI_Lab_7_Poli\obj\Debug\PI_Lab_7_Poli.Properties.Resources.resources
+C:\Users\Artem-HOME\source\repos\PI_Lab_7_Poli\obj\Debug\PI_Lab_7_Poli.csproj.GenerateResource.cache
+C:\Users\Artem-HOME\source\repos\PI_Lab_7_Poli\obj\Debug\PI_Lab_7_Poli.csproj.CoreCompileInputs.cache
+C:\Users\Artem-HOME\source\repos\PI_Lab_7_Poli\obj\Debug\PI_Lab_7_Poli.exe
+C:\Users\Artem-HOME\source\repos\PI_Lab_7_Poli\obj\Debug\PI_Lab_7_Poli.pdb
