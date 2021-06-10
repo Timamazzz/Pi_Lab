@@ -1,0 +1,20 @@
+C:\Users\Artem-HOME\source\repos\PI Lab_4B\bin\Debug\PI Lab_4B.exe.config
+C:\Users\Artem-HOME\source\repos\PI Lab_4B\bin\Debug\PI Lab_4B.exe
+C:\Users\Artem-HOME\source\repos\PI Lab_4B\bin\Debug\PI Lab_4B.pdb
+C:\Users\Artem-HOME\source\repos\PI Lab_4B\obj\Debug\PI Lab_4B.csprojAssemblyReference.cache
+C:\Users\Artem-HOME\source\repos\PI Lab_4B\obj\Debug\PI_Lab_4B.Form1.resources
+C:\Users\Artem-HOME\source\repos\PI Lab_4B\obj\Debug\PI_Lab_4B.Properties.Resources.resources
+C:\Users\Artem-HOME\source\repos\PI Lab_4B\obj\Debug\PI Lab_4B.csproj.GenerateResource.cache
+C:\Users\Artem-HOME\source\repos\PI Lab_4B\obj\Debug\PI Lab_4B.csproj.CoreCompileInputs.cache
+C:\Users\Artem-HOME\source\repos\PI Lab_4B\obj\Debug\PI Lab_4B.exe
+C:\Users\Artem-HOME\source\repos\PI Lab_4B\obj\Debug\PI Lab_4B.pdb
+C:\Users\Artem-HOME\source\repos\PI_Lab_4B\bin\Debug\PI Lab_4B.exe.config
+C:\Users\Artem-HOME\source\repos\PI_Lab_4B\bin\Debug\PI Lab_4B.exe
+C:\Users\Artem-HOME\source\repos\PI_Lab_4B\bin\Debug\PI Lab_4B.pdb
+C:\Users\Artem-HOME\source\repos\PI_Lab_4B\obj\Debug\PI Lab_4B.csprojAssemblyReference.cache
+C:\Users\Artem-HOME\source\repos\PI_Lab_4B\obj\Debug\PI_Lab_4B.Form1.resources
+C:\Users\Artem-HOME\source\repos\PI_Lab_4B\obj\Debug\PI_Lab_4B.Properties.Resources.resources
+C:\Users\Artem-HOME\source\repos\PI_Lab_4B\obj\Debug\PI Lab_4B.csproj.GenerateResource.cache
+C:\Users\Artem-HOME\source\repos\PI_Lab_4B\obj\Debug\PI Lab_4B.csproj.CoreCompileInputs.cache
+C:\Users\Artem-HOME\source\repos\PI_Lab_4B\obj\Debug\PI Lab_4B.exe
+C:\Users\Artem-HOME\source\repos\PI_Lab_4B\obj\Debug\PI Lab_4B.pdb
